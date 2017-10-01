@@ -1,0 +1,12 @@
+BattleTanks is a head-to-head tank combat game in a specific terrain with obstacles. Obstacles can be used for advantage.
+
+RULES
+- Terrain will be surrounded by mountains. Tanks can move anywhere between these mountains.
+- Players will start with finite health and ammunition.
+- Each hit taken reduces health. (Direct or indirect)
+- The last player standing wins.
+
+REQUIREMENTS
+- SFX : Gun fire, explosion, barrel or turret moving, engine sound
+- Static mesh : Simple tank body parts, turret, barrel, wheels
+- Music : Background music
