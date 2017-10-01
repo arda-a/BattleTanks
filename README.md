@@ -1,3 +1,4 @@
 # BattleTanks
 A 3D tank battle game in progress...
-Begin developed using Unreal Engine v4.17.2
+
+Being developed using Unreal Engine v4.17.2
