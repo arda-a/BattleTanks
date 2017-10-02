@@ -7,6 +7,6 @@ RULES
 - The last player standing wins.
 
 REQUIREMENTS
-- SFX : Gun fire, explosion, barrel or turret moving, engine sound
+- SFX : Gun fire, explosion, barrel or turret moving, engine sound, possibly grass or terrain based sounds..
 - Static mesh : Simple tank body parts, turret, barrel, wheels
 - Music : Background music
